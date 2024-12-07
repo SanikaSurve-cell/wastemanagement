@@ -1,0 +1,27 @@
+<style>
+body {
+  background-color: lightblue;
+}
+ h1 {
+  background-color: yellow;
+   text-align: center;
+   
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+  background-image: url("paper.gif");
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+</style>
